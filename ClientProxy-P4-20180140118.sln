@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientProxy-P4-NIM", "ClientProxy-P4-NIM.csproj", "{01B53D4C-E235-42B4-982B-BD5B47CE959F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientProxy-P4-20180140118", "ClientProxy-P4-20180140118.csproj", "{01B53D4C-E235-42B4-982B-BD5B47CE959F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
